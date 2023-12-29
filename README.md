@@ -21,4 +21,5 @@
 - 이성민 : 프로젝트 문서화, 발표
 
 ## 데모 영상
-<video src="resources/demo-video.mp4" controls title="데모 영상"></video>
+https://github.com/Inha-HighTech/MZ-Diary/assets/62539341/3f6722af-dc1b-4376-aad2-7fe5fbb35b2b
+
